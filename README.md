@@ -1,63 +1,62 @@
-<h1 data-importer="text" align="center">Hey 👋🏻I'm Amit</h1>
+<div align="center">
 
-###
+# 👋🏻 Hey, I'm Amit Kumar
 
-<div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+### AI/ML Student • Exploring NeuroAI & Brain-Inspired Intelligence
+
+**B.Tech in Artificial Intelligence & Machine Learning @ Sandip University**
+
+*Exploring the intersection of*
+
+**Artificial Intelligence × Machine Learning × Neuroscience × Brain Research**
+
+<br>
+
+<a href="https://www.linkedin.com/in/amit-kumar-b17586316/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://www.instagram.com/x_h.e.e.r/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<a href="https://github.com/AM-SM-07">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
 </div>
 
-###
+---
 
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+## 🧠 About Me
 
-###
+I'm an **Artificial Intelligence & Machine Learning student** interested in understanding how intelligent systems learn, represent information, and make decisions.
 
-<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
+My long-term direction lies at the intersection of:
 
-###
+- 🧠 **Neuroscience & Brain Research**
+- 🤖 **Artificial Intelligence & Machine Learning**
+- 🧬 **Brain-Inspired Computing / NeuroAI**
+- 🧠 **Neural Networks & Representation Learning**
+- 💻 **AI-powered applications and intelligent systems**
 
-<p data-importer="text" align="left">🤖 I'm currently working on Machine Learning and AI projects.<br>🌱 I'm currently learning Python, Data Structures & Algorithms, Machine Learning, and Deep Learning.<br>🫱🏻‍🫲🏻 I'm looking to collaborate on AI/ML, Web Development, and open-source projects.<br>🧩 I'm looking for help with AI/ML concepts, brain-inspired AI, and research-oriented projects.<br>💬 Ask me about Python, Machine Learning, AI, DSA, and my projects.<br>📫 How to reach me:LinkedIn:https://www.linkedin.com/in/amit-kumar-b17586316/ / GitHub:https://github.com/AM-SM-07</p>
+Currently, I'm building my foundations through **hands-on projects, mathematical understanding, experimentation, and continuous learning**.
 
-###
+> **My goal:** understand intelligence from both the **computational** and **biological** perspectives.
 
-<h3 data-importer="text" align="left">🛠 Language and tools</h3>
+---
 
-###
+## 🔬 Research Direction
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40" alt="electron logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-</div>
+I'm particularly curious about questions such as:
 
-###
-
-<h3 data-importer="text" align="left">🔥   My Stats :</h3>
-
-###
+```text
+How does the brain learn?
+        ↓
+How does biological neural computation work?
+        ↓
+What can we learn from neuroscience?
+        ↓
+Can those principles inspire better AI systems?
+        ↓
+Can AI also help us understand the brain?
