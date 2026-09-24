@@ -40,7 +40,39 @@ My long-term direction lies at the intersection of:
 - 🧠 **Neural Networks & Representation Learning**
 - 💻 **AI-powered applications and intelligent systems**
 
-Currently, I'm building my foundations through **hands-on projects, mathematical understanding, experimentation, and continuous learning**.
+Currently Focusing On
+
+Right now, my primary focus is building a strong foundation in **Machine Learning and Deep Learning** through theory, mathematics, implementation, and hands-on projects.
+
+```text
+                 CURRENT FOCUS
+                       │
+        ┌──────────────┼──────────────┐
+        ↓              ↓              ↓
+   Machine Learning   Python         DSA
+        │
+        ├── Supervised Learning
+        ├── Unsupervised Learning
+        ├── Model Evaluation
+        ├── Feature Engineering
+        └── Optimization
+        │
+        ↓
+   Deep Learning
+        │
+        ├── Neural Networks
+        ├── Backpropagation
+        ├── Optimization
+        ├── CNNs
+        └── Representation Learning
+        │
+        ↓
+   Future Direction
+        │
+        ├── NeuroAI
+        ├── Computational Neuroscience
+        ├── Brain-Computer Interfaces
+        └── Brain Research
 
 > **My goal:** understand intelligence from both the **computational** and **biological** perspectives.
 
