@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋🏻
 
 - 🤖 I'm currently working on Machine Learning and AI projects.
 - 🌱 I'm currently learning Python, Data Structures & Algorithms, Machine Learning, and Deep Learning.
